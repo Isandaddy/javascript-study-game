@@ -1,3 +1,7 @@
+/**
+ * 팝업에 괸련된 것들
+ */
+
 "use strick";
 
 export default class PopUp {
